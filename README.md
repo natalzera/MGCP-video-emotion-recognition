@@ -40,4 +40,4 @@ Portanto, podemos concluir que apesar do método desenvolvido apresentou problem
 
 ## Artigos Publicados
 
-- COUTINHO, G. N. et al. Multimodal audio emotion recognition with graph-based consensus pseudolabeling. In: SBC. Anais do 20th Encontro Nacional de Inteligência Artificial e Computacional, 2023. p. 1–15.
+- COUTINHO, G. N. et al. Multimodal audio emotion recognition with graph-based consensus pseudolabeling. In: SBC. Anais do 20th Encontro Nacional de Inteligência Artificial e Computacional, 2023. p. 1–15.
